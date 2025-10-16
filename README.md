@@ -1,6 +1,6 @@
 # 🎑 한가위 테마 웹페이지
 
-👉 **배포 링크:** [https://samingming.github.io/hangawi-page/](https://samingming.github.io/hangawi-page/)
+👉 **배포 링크:** [https://samingming.github.io/vue-static-page/](https://samingming.github.io/vue-static-page/)
 
 한가위 분위기의 Vue + TypeScript + Vite 웹페이지입니다.  
 보름달, 연등, 별빛 등 한국 전통 감성을 표현했습니다.
